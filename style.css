@@ -10,9 +10,11 @@ body {
     height: 100vh;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 main {
+    height: 100vh;
     max-width: 550px;
     width: 100%;
     display: flex;
@@ -70,6 +72,7 @@ ibout, select {
     width:100%;
     display:flex;
     justify-content: center;
+    align-items: center;
 }
 
 table {
