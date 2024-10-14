@@ -87,7 +87,14 @@ th {
     padding-bottom:5px;
 }
  
-i 
-{
-    ft-size:25px;
+i {
+    font-optical-sizing: 10px;
+}
+
+.bxs-chervon-up-circle {
+    color: #00c9a7;
+}
+
+.bxs-chevron-down-circle {
+    color: rgb(109, 7, 7);
 }
